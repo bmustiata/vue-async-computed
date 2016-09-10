@@ -32,6 +32,8 @@
   </a>
 </p>
 
+**Note: This branch contains the latest stable version of the vue-async-computed plugin. This version is compatible with Vue 1.0. A release candidate which is compatible with Vue 2.0 is availible on the [next](https://github.com/foxbenjaminfox/vue-async-computed/tree/next) branch.**
+
 With this plugin, you can have have computed properties in Vue that are computed asynchronously.
 
 Without using this plugin, you can't do this:
